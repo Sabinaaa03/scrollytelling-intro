@@ -2,6 +2,15 @@
   padding: 0;
   max-width: 60rem;
   margin: 0 auto;
+  background-color: rgb(221, 220, 237);
+}
+.titel {
+  font-size: 2.5rem;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 0;
+  background-color: rgb(132, 0, 255);
+  color: white;
 }
 
 .article {
@@ -38,7 +47,8 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
   margin: 0;
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(0, 0, 0, 0.445);
+  color: rgb(255, 255, 255)
 }
 
 .sticky-img {
